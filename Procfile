@@ -1,1 +1,1 @@
-worker: npm install && npm update && node . --server
+worker : npm i @adiwajshing/baileys@latest && npm start
